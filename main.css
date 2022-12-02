@@ -1,0 +1,29 @@
+body{
+    font-family: 'Lato', serif;
+    color: #000000;
+}
+h2{
+    font-size: 136px;
+    color: #414f6b;
+    position: relative;
+}
+h2 span{
+    position: absolute;
+    font-size: 32px;
+    color: #414f6b;
+    bottom: 50%;
+    text-transform: uppercase;
+}
+header{
+    background-image: url("img/photo-1459666644539-a9755287d6b0@1.5x.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vw;
+}
+.nav-link{
+   font-size: 12px;
+   font-style: italic;
+   text-decoration: underline;
+   color: white;
+}
